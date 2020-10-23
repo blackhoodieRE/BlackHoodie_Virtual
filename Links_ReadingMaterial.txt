@@ -1,0 +1,35 @@
+READING MATERIALS
+====================================================
+
+Intel 64 and IA-32 Architectures Software Developer's Manuals 
+http://www.intel.com/content/www/us/en/processors/architectures-software-developer-manuals.html
+
+x86 Opcode and Instruction Reference 
+http://ref.x86asm.net/coder32.html
+
+x86-64 Cheatsheet from Brown University 
+https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf
+
+Understanding the Instruction Pipeline
+https://techdecoded.intel.io/resources/understanding-the-instruction-pipeline/
+
+Little Endian vs. Big Endian
+https://thebittheories.com/little-endian-vs-big-endian-b4046c63e1f2
+
+Microsoft Documentation on x64 Calling Convention for Windows
+https://docs.microsoft.com/en-us/cpp/build/x64-calling-convention?view=vs-2019
+
+X64 ABI Intro to the Windows x64 Calling Convention and In Depth Windowsx x64 ABI Stack Frames
+https://www.gamasutra.com/view/news/171088/x64_ABI_Intro_to_the_Windows_x64_calling_convention.php
+https://www.gamasutra.com/view/news/178446/Indepth_Windows_x64_ABI_Stack_frames.php
+
+The Godbolt Compiler Explorer
+https://godbolt.org/
+
+
+BOOKS
+====================================================
+
+"Reversing: Secrets of Reverse Engineering" by Eilam, Eldad
+"Practical Reverse Engineering: x86, x64, ARM, Windows Kernel" by Alexandre Gazet, Bruce Dang, and Elias Bachaalany
+
